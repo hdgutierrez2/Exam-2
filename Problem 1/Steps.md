@@ -1,4 +1,4 @@
-Step 1: Small stoners
+Step 1: Small 
   + [2,3,5,5] --> Alex can win, return true
   + [2,5,1,3] --> Alex can win
 
